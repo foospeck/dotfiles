@@ -1,0 +1,8 @@
+" Vim initialization commands
+
+set nocompatible      " Use Vim defaults and not pretend to be vi.
+syntax enable         " Switch on syntax highlighting.
+
+set expandtab         " Use the appropriate number of spaces to insert a tab.
+set shiftwidth=2      " Number of spaces to use for each step of (auto)indent.
+set softtabstop=2     " Number of spaces that <Tab> counts.
